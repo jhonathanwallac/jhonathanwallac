@@ -77,7 +77,6 @@ Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha
   <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jhonathanwallac&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=19&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/trophy-output/trophy.svg?theme=dark_lover&column=8&row=4&margin-w=16&margin-h=11&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
