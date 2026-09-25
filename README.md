@@ -1,11 +1,11 @@
-<img align="right" width="300" src="assets/gato-programando.gif" alt="Gato programando" />
-
+<img align="right" height="300" src="assets/gato-programando.gif" alt="Gato programando" />
 <h3>Olá! 👋</h3>
 
 Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha habilidade de trabalhar em equipe, sempre valorizando as pessoas e oportunidades ao meu redor, como aprendi desde cedo. Hoje, atuo em uma das principais empresas do setor financeiro na posição de Engenheiro de Software, colaborando na construção e evolução de sistemas baseados em microsserviços.
 
 🎓 Bacharel em Sistemas de Informação pela UFVJM <br />
-📍 Cuiabá - MT
+📍 Atualmente em Cuiabá - MT
+
 
 <br clear="right" />
 
@@ -85,7 +85,7 @@ Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha
 
 ## 📫 Contato
 
-<img align="right" width="300" src="assets/tchau.gif" alt="Criança acenando tchau" />
+<img align="right" width="350" src="assets/tchau.gif" alt="Criança acenando tchau" />
 
 Sempre aberto a novas conexões! Se quiser conversar sobre tecnologia, carreira, ou só trocar indicações de jogos, filmes/séries, fique à vontade para me chamar. 😄
 
@@ -105,7 +105,9 @@ Sempre aberto a novas conexões! Se quiser conversar sobre tecnologia, carreira,
 </p>
 
 <br />
+<br />
 
-<i>Obrigado pela visita! Até mais! 👋</i>
+<i>Obrigado pela visita!</i><br />
+<i>Até mais! 👋</i>
 
 <br clear="right" />
