@@ -1,20 +1,17 @@
-<h3 align="center">Olá! 👋</h3>
+<img align="right" width="300" src="assets/gato-programando.gif" alt="Gato programando" />
 
-<p align="center">
-Sou Engenheiro de Software no <b>PagBank</b>, onde desenvolvo sistemas distribuídos baseados em microsserviços, com foco em back-end com <b>Java</b>, <b>Kotlin</b> e <b>Spring</b>. Bacharel em Sistemas de Informação pela <b>UFVJM</b>, moro em Cuiabá - MT.
-</p>
+<h3>Olá! 👋</h3>
 
-<img src="assets/gato-programando.gif" width="100%" alt="Gato programando" />
+Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha habilidade de trabalhar em equipe, sempre valorizando as pessoas e oportunidades ao meu redor, como aprendi desde cedo. Hoje, atuo em uma das principais empresas do setor financeiro na posição de Engenheiro de Software, colaborando na construção e evolução de sistemas baseados em microsserviços.
 
-## 👨‍💻 Sobre mim
+🎓 Bacharel em Sistemas de Informação pela UFVJM <br />
+📍 Cuiabá - MT
 
-Comecei na área de TI por meio de estágios e, ao longo de cerca de três anos, aprendi a valorizar o trabalho em equipe e as pessoas ao meu redor. Hoje, no PagBank, aplico boas práticas de engenharia em um ambiente colaborativo, com desafios que ampliam minha autonomia e minha visão de negócio. O que me move é criar produtos que impactem positivamente a vida das pessoas, unindo tecnologia, criatividade e propósito.
-
-Fora do código, gosto de jogar 🎮, assistir a filmes e séries 🍿 e conversar sobre tecnologia 💬. Se quiser trocar uma ideia sobre qualquer um desses assuntos, é só chamar!
+<br clear="right" />
 
 ## 🧰 Stack
 
-**💼 Dia a dia**
+**💼 Dia a dia no trabalho**
 
 <p>
   <img src="assets/icons/java.svg" width="48" alt="Java" title="Java" />
@@ -31,10 +28,8 @@ Fora do código, gosto de jogar 🎮, assistir a filmes e séries 🍿 e convers
   <img src="assets/icons/jira.svg" width="48" alt="Jira" title="Jira" />
   <img src="assets/icons/linux.svg" width="48" alt="Linux" title="Linux" />
   <img src="assets/icons/windows.svg" width="48" alt="Windows" title="Windows" />
-  <img src="assets/icons/wsl.svg" width="48" alt="WSL" title="WSL" />
   <img src="assets/icons/git.svg" width="48" alt="Git" title="Git" />
   <img src="assets/icons/github.svg" width="48" alt="GitHub" title="GitHub" />
-  <img src="assets/icons/teams.svg" width="48" alt="Teams" title="Teams" />
   <img src="assets/icons/vscode.svg" width="48" alt="VS Code" title="VS Code" />
   <img src="assets/icons/idea.svg" width="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img src="assets/icons/datagrip.svg" width="48" alt="DataGrip" title="DataGrip" />
@@ -90,21 +85,27 @@ Fora do código, gosto de jogar 🎮, assistir a filmes e séries 🍿 e convers
 
 ## 📫 Contato
 
-<img align="right" width="180" src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="Bebê acenando tchau" />
+<img align="right" width="300" src="assets/tchau.gif" alt="Criança acenando tchau" />
+
+Sempre aberto a novas conexões! Se quiser conversar sobre tecnologia, carreira, ou só trocar indicações de jogos, filmes/séries, fique à vontade para me chamar. 😄
 
 <p>
-<a href="https://jhonathansantos.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=28F1A7" alt="Portfólio" /></a>
-<br />
-<a href="https://www.linkedin.com/in/jhonathanwallac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<br />
-<a href="https://github.com/jhonathanwallac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<br />
-<a href="mailto:jhonathanwallace22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jhonathansantos.netlify.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=28F1A7" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhonathanwallac/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhonathanwallace22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/jhonathanwallac">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <br />
-<br />
 
-<i>Obrigado pela visita! Até mais!</i>
+<i>Obrigado pela visita! Até mais! 👋</i>
 
 <br clear="right" />
