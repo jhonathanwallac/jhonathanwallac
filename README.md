@@ -1,4 +1,4 @@
-<img align="right" height="300" src="assets/gato-programando.gif" alt="Gato programando" />
+<img align="right" height="300" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" alt="Gato programando" />
 <h3>Olá! 👋</h3>
 
 Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha habilidade de trabalhar em equipe, sempre valorizando as pessoas e oportunidades ao meu redor, como aprendi desde cedo. Hoje, atuo em uma das principais empresas do setor financeiro na posição de Engenheiro de Software, colaborando na construção e evolução de sistemas baseados em microsserviços.
@@ -90,7 +90,7 @@ Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha
 
 ## 📫 Contato
 
-<img align="right" width="350" src="assets/tchau.gif" alt="Criança acenando tchau" />
+<img align="right" height="300" src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" alt="Criança acenando tchau" />
 
 Sempre aberto a novas conexões! Se quiser conversar sobre tecnologia, carreira, ou só trocar indicações de jogos, filmes/séries, fique à vontade para me chamar. 😄
 
