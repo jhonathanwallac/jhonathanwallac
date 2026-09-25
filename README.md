@@ -73,14 +73,20 @@ Ao longo de cerca de três anos de experiência na área de TI, desenvolvi minha
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonathanwallac&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonathanwallac&theme=github_dark" alt="Linguagens mais usadas" />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jhonathanwallac&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=19&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/trophy-output/trophy.svg?theme=dark_lover&column=8&row=4&margin-w=16&margin-h=11&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jhonathanwallac&theme=dark&hide_border=true&background=0D1117&ring=28F1A7&fire=28F1A7&currStreakLabel=28F1A7" alt="Sequência de contribuições" />
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/jhonathanwallac/jhonathanwallac/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## 📫 Contato

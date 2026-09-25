@@ -1,0 +1,32 @@
+name: Gerar card de estatísticas
+
+on:
+  schedule:
+    - cron: "0 3,15 * * *" # A cada 12 horas (00:00 e 12:00 em Cuiabá)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar stats.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar no branch stats-output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

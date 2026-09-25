@@ -1,0 +1,38 @@
+name: Gerar card de troféus
+
+on:
+  schedule:
+    - cron: "0 3,15 * * *" # A cada 12 horas (00:00 e 12:00 em Cuiabá)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark_lover
+          max-cols: 8
+          max-rows: 4
+          margin-width: 16
+          margin-height: 11
+          no-background: true
+          no-frame: true
+
+      - name: Publicar no branch trophy-output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
